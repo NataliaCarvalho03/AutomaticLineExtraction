@@ -1,0 +1,3 @@
+/home/natalia/Documentos/Mestrado/trabalho_extracao/TP_Extração_2019/codigos/3_elimina/CMakeFiles/rebuild_cache.dir
+/home/natalia/Documentos/Mestrado/trabalho_extracao/TP_Extração_2019/codigos/3_elimina/CMakeFiles/3_elimina.dir
+/home/natalia/Documentos/Mestrado/trabalho_extracao/TP_Extração_2019/codigos/3_elimina/CMakeFiles/edit_cache.dir
